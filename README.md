@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 🤝 I’m looking for help with **Social Problem**
+- 🤝 I’m looking for help with **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jaishree2310](https://github.com/Jaishree2310)
 
