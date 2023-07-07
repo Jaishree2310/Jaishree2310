@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **jaishrees23102001@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/cpBG0]
+- 📄 Know about my experiences [https://personal-portfolio-jaishree-10.vercel.app/]
 
 - ⚡ Fun fact **"Added 1000 lines, no bugs."**
 
