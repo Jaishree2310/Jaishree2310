@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
