@@ -26,17 +26,13 @@
 
 - ⚡ Fun fact **"Added 1000 lines, no bugs."**
 
-<h3 align="left">Connect with me:</h3>
 
 
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaishree2310&show_icons=true&locale=en&layout=compact" alt="jaishree2310" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaishree2310&show_icons=true&locale=en" alt="jaishree2310" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaishree2310&" alt="jaishree2310" /></p>
 
 
 
