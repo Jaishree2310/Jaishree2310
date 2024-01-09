@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/jaishre23100" target="blank"><img src="https://img.shields.io/twitter/follow/jaishre23100?logo=twitter&style=for-the-badge" alt="jaishre23100" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Portfolio**
+- 🔭 I’m currently working on **Scalable Service Architecture**
 
 - 🌱 I’m currently learning **DSA**
 
