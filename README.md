@@ -18,7 +18,7 @@
 
 - 📝 I occasionally write Blogs on [https://medium.com/@jaishrees23102001](https://medium.com/@jaishrees23102001)
 
-- 💬 Ask me about **Front End, UI/UX**
+- 💬 Ask me about **Any Technology**
 
 - 📫 How to reach me **jaishrees23102001@gmail.com**
 
