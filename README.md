@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/jaishre23100" target="blank"><img src="https://img.shields.io/twitter/follow/jaishre23100?logo=twitter&style=for-the-badge" alt="jaishre23100" /></a> </p>
 
-- 🔭 I’m currently working on **Scalable Service Architecture**
+- 🔭 I’m currently working on **GSOC 2024**
 
 - 🌱 I’m currently learning **DSA**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 I’m looking to collaborate on **Open Source and Hackathon**
 
 - 🤝 I’m looking for help with **Community**
 
