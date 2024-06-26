@@ -13,7 +13,7 @@
   * Web Accessibility
     
 ## 🛠 Projects
-- 👨‍💻 All of my projects are available at [JaishreeSingh](https://jaishreesingh.vercel.app/)
+- 👨‍💻 All of my projects are available at [Jaishree Singh](https://jaishreesingh.vercel.app/)
 
  ## 🔧 Technologies & Tools
 
