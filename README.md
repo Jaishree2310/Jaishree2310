@@ -53,7 +53,7 @@
  ## 📫 Get in Touch
  - **Email:** **jaishrees23102001@gmail.com**
 
-- 📄 Know about my experiences https://personal-portfolio-jaishree-10.vercel.app/
+- 📄 Know about my experiences https://jaishreesingh.vercel.app/
 
 ## ⚡Fun fact
  **"When I'm not coding, you can find me exploring nature or reading a good book."**
