@@ -9,7 +9,7 @@
 - I'm constantly learning and improving my skills.
 - Currently, I'm diving deeper into:
   * Advanced React Patterns
-  * DSA
+  * DSA 
   * Web Accessibility
     
 ## 🛠 Projects
@@ -52,8 +52,6 @@
 
  ## 📫 Get in Touch
  - **Email:** **jaishrees23102001@gmail.com**
-
-- 📄 Know about my experiences https://jaishreesingh.vercel.app/
 
 ## ⚡Fun fact
  **"When I'm not coding, you can find me exploring nature or reading a good book."**
