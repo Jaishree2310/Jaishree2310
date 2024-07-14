@@ -8,9 +8,9 @@
 ## 🌱 I’m currently learning
 - I'm constantly learning and improving my skills.
 - Currently, I'm diving deeper into:
-  * Advanced React Patterns
+  * AI
   * DSA 
-  * Web Accessibility
+  * Advanced React Patterns
     
 ## 🛠 Projects
 - 👨‍💻 All of my projects are available at [Jaishree Singh](https://jaishreesingh.vercel.app/)
