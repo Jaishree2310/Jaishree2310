@@ -14,7 +14,7 @@
 - Currently, I'm diving deeper into:
   * AI
   * DSA 
-  * Advanced React Patterns
+  * Indie Hacking
     
 ## 🛠 Projects
 - 👨‍💻 All of my projects are available at [Jaishree Singh](https://jaishreesingh.vercel.app/)
