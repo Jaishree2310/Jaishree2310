@@ -54,9 +54,6 @@
  ## 🎨 Design Portfolio
  **Besides coding, I also love designing user interfaces. Check out my design work on [Dribbble](https://dribbble.com/jas2310) and [Behance](https://www.behance.net/jaishrees2310design).**
 
- ## 📫 Get in Touch
- - **Email:** **jaishrees23102001@gmail.com**
-
 ## ⚡Fun fact
  **"When I'm not coding, you can find me exploring nature or reading a good book."**
 
