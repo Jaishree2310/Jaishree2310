@@ -1,20 +1,20 @@
 <h1 align="center">Hello 👋, I'm Jaishree Singh </h1>
-<h3 align="center">I'm a passionate Frontend Developer with a knack for creating beautiful, responsive, and user-friendly web applications. I love turning complex problems into simple, elegant solutions 🚀</h3>
+<h3 align="center">I work at Kobun as a Software Engineer Intern and I'm an open source enthusiast who has guided 100+ participants to start their open-source journey. I have contributed to numerous open-source projects and now mentoring various projects. I'm a passionate front-end developer with a knack for creating beautiful, responsive, and user-friendly web applications. I love turning complex problems into simple, elegant solutions 🚀</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaishree2310&label=Profile%20views&color=0e75b6&style=flat" alt="jaishree2310" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jaishre23100" target="blank"><img src="https://img.shields.io/twitter/follow/jaishre23100?logo=twitter&style=for-the-badge" alt="jaishre23100" /></a> </p>
 
 ## Building Open Source Project
-- GlassyUI
-- Github Portfolio Generator
+- GlassyUI-Components
+- GitHub Portfolio Generator
 
 ## 🌱 I’m currently learning
 - I'm constantly learning and improving my skills.
 - Currently, I'm diving deeper into:
-  * AI
-  * DSA 
-  * System Design
+  * AI/ML
+  * UI/UX
+  * MERN Stack 
     
 ## 🛠 Projects
 - 👨‍💻 All of my projects are available at [Jaishree Singh](https://jaishreesingh.vercel.app/)
