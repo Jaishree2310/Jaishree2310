@@ -7,7 +7,6 @@
 
 ## Building Open Source Project
 - GlassyUI-Components
-- GitHub Portfolio Generator
 
 ## 🌱 I’m currently learning
 - I'm constantly learning and improving my skills.
