@@ -11,9 +11,10 @@
 ## 🌱 I’m currently learning
 - I'm constantly learning and improving my skills.
 - Currently, I'm diving deeper into:
+  * Open Source
   * AI/ML
   * UI/UX
-  * MERN Stack 
+ 
     
 ## 🛠 Projects
 - 👨‍💻 All of my projects are available at [Jaishree Singh](https://jaishreesingh.vercel.app/)
