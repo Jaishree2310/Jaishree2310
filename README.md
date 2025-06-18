@@ -13,8 +13,6 @@
 - Currently, I'm diving deeper into:
   * Open Source
   * AI/ML
-  * UI/UX
- 
     
 ## 🛠 Projects
 - 👨‍💻 All of my projects are available at [Jaishree Singh](https://jaishreesingh.vercel.app/)
