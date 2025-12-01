@@ -1,53 +1,110 @@
-<h1 align="center">Hello 👋, I'm Jaishree Singh </h1>
-<h3 align="center">I am a Software Engineer. I have contributed to numerous open-source projects.</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966"> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaishree2310&label=Profile%20views&color=0e75b6&style=flat" alt="jaishree2310" /> </p>
+<h1 align="center">Jaishree Singh</h1>
+<h3 align="center">Software Engineer • Open Source Contributor • AI & Systems Enthusiast</h3>
 
-<p align="left"> <a href="https://twitter.com/jaishre23100" target="blank"><img src="https://img.shields.io/twitter/follow/jaishre23100?logo=twitter&style=for-the-badge" alt="jaishre23100" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaishree2310&style=flat&color=blue" alt="profile views"/>
+</p>
 
-## Building Open Source Project
-- GlassyUI-Components
-- Github Book
+---
 
-## 🌱 I’m currently learning
-- I'm constantly learning and improving my skills.
-- Currently, I'm diving deeper into:
-  * Open Source
-  * AI/ML
+## Summary
 
- ## 🔧 Technologies & Tools
+I am a Software Engineer at **e-Yantra, IIT Bombay**, working across frontend, backend, cloud systems, and developer tooling. I build scalable applications, design APIs, architect user-centric interfaces, and contribute to distributed projects supporting robotics, automation, and engineering education.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+My interests span **web engineering, system design, AI-assisted development, and machine learning**, with a strong focus on building tools that improve developer experience and product reliability.
 
-## ✍️ Blog Writing
--  I occasionally write Blogs on [medium.com](https://medium.com/@jaishrees23102001)
+I value clean architecture, long-term maintainability, and thoughtful engineering decisions.
 
-## ⚡Fun fact
- **"When I'm not coding, you can find me exploring nature or reading a good book."**
+---
 
+## Current Focus
 
+- Full-stack development using modern TypeScript ecosystems  
+- Backend engineering, API architecture, authentication systems  
+- AI/ML concepts & integration into production workflows  
+- Developer tools, automation, CI/CD, and cloud deployment  
+- Scalable UI systems and performance-driven design  
 
+---
 
+## Core Engineering Skills
 
+### **Frontend**
+- React, Next.js, TypeScript, Svelte  
+- Design Systems, Server Components, State Management  
+- Performance optimization & accessible UI engineering  
 
+### **Backend**
+- Node.js, Express.js  
+- REST APIs, authentication, caching, microservices basics  
+- MongoDB, MySQL, PostgreSQL fundamentals  
 
+### **AI / Machine Learning**
+- Python (NumPy, Pandas, Scikit-Learn)  
+- Foundations of ML models, data preprocessing  
+- AI integration into full-stack apps  
+- Exploring LLM-based tooling & automation  
 
+### **DevOps & Cloud**
+- GitHub Actions, CI/CD pipelines  
+- AWS (Lambda, S3, EC2 basics)  
+- Docker (intro level), containerization concepts  
 
+### **Systems & Architecture**
+- Clean architecture, modular design  
+- Distributed system fundamentals  
+- API design, versioning & documentation  
 
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,python,express,mongodb,mysql,postgres,git,github,aws,docker,svelte,html,css,php,laravel,vscode&perline=12" />
+</p>
+
+---
+
+## Open Source Contributions
+
+I actively contribute to open-source, focusing on:
+
+- UI & component ecosystems  
+- Developer productivity tools  
+- Documentation and architecture consistency  
+- Performance improvements & refactoring  
+
+Featured Projects:
+- **GlassyUI-Components** — Modern, minimal, reusable components  
+- **GitHub Book** — Developer workflows, Git/GitHub best practices  
+
+---
+
+## Writing & Publications
+
+I share insights on engineering, AI, and developer productivity:  
+➡️ I occasionally write Blogs on [medium.com](https://medium.com/@jaishrees23102001)
+
+---
+
+## Interests
+
+- Scalable full-stack architectures  
+- AI-powered development & ML workflows  
+- Distributed systems & backend design  
+- UI engineering & design systems  
+- Open-source ecosystems  
+- Cloud-native development  
+
+---
+
+## Contact
+
+Feel free to explore my repositories or connect with me on LinkedIn.
+
+---
+
+## Fun fact
+
+**"When I'm not coding, you can find me exploring nature or reading a good book."**
 
