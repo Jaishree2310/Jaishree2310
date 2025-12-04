@@ -17,16 +17,6 @@ I value clean architecture, long-term maintainability, and thoughtful engineerin
 
 ---
 
-## Current Focus
-
-- Full-stack development using modern TypeScript ecosystems  
-- Backend engineering, API architecture, authentication systems  
-- AI/ML concepts & integration into production workflows  
-- Developer tools, automation, CI/CD, and cloud deployment  
-- Scalable UI systems and performance-driven design  
-
----
-
 ## Tech Stack
 
 <p align="center">
@@ -52,8 +42,7 @@ Featured Projects:
 
 ## Writing & Publications
 
-I share insights on engineering, AI, and developer productivity:  
-➡️ I occasionally write Blogs on [medium.com](https://medium.com/@jaishrees23102001)
+I share insights on engineering, AI, and developer productivity: [medium.com](https://medium.com/@jaishrees23102001)
 
 ---
 
@@ -65,12 +54,6 @@ I share insights on engineering, AI, and developer productivity:
 - UI engineering & design systems  
 - Open-source ecosystems  
 - Cloud-native development  
-
----
-
-## Contact
-
-Feel free to explore my repositories or connect with me on LinkedIn.
 
 ---
 
