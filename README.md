@@ -27,36 +27,6 @@ I value clean architecture, long-term maintainability, and thoughtful engineerin
 
 ---
 
-## Core Engineering Skills
-
-### **Frontend**
-- React, Next.js, TypeScript, Svelte  
-- Design Systems, Server Components, State Management  
-- Performance optimization & accessible UI engineering  
-
-### **Backend**
-- Node.js, Express.js  
-- REST APIs, authentication, caching, microservices basics  
-- MongoDB, MySQL, PostgreSQL fundamentals  
-
-### **AI / Machine Learning**
-- Python (NumPy, Pandas, Scikit-Learn)  
-- Foundations of ML models, data preprocessing  
-- AI integration into full-stack apps  
-- Exploring LLM-based tooling & automation  
-
-### **DevOps & Cloud**
-- GitHub Actions, CI/CD pipelines  
-- AWS (Lambda, S3, EC2 basics)  
-- Docker (intro level), containerization concepts  
-
-### **Systems & Architecture**
-- Clean architecture, modular design  
-- Distributed system fundamentals  
-- API design, versioning & documentation  
-
----
-
 ## Tech Stack
 
 <p align="center">
