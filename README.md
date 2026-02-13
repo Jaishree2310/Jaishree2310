@@ -9,9 +9,9 @@
 
 ## Summary
 
-I am a Software Engineer at **e-Yantra, IIT Bombay**, working across frontend, backend, cloud systems, and developer tooling. I build scalable applications, design APIs, architect user-centric interfaces, and contribute to distributed projects supporting robotics, automation, and engineering education.
+I am a Software Engineer at **e-Yantra, IIT Bombay**, working across frontend, backend, and developer tooling. I build scalable applications, architect user-centric interfaces, and contribute to distributed projects, automation, and engineering education.
 
-My interests span **web engineering, system design, AI-assisted development, and machine learning**, with a strong focus on building tools that improve developer experience and product reliability.
+My interests span **web engineering, AI-assisted development, and machine learning**, with a strong focus on building tools that improve developer experience and product reliability.
 
 I value clean architecture, long-term maintainability, and thoughtful engineering decisions.
 
